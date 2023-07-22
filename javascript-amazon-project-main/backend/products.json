@@ -7,7 +7,7 @@
       "stars": 4.5,
       "count": 87
     },
-    "priceCents": 1090,
+    "priceKobo": 109000,
     "keywords": [
       "socks",
       "sports",
@@ -22,7 +22,7 @@
       "stars": 4,
       "count": 127
     },
-    "priceCents": 2095,
+    "priceKobo": 209500,
     "keywords": [
       "sports",
       "basketballs"
@@ -36,7 +36,7 @@
       "stars": 4.5,
       "count": 56
     },
-    "priceCents": 799,
+    "priceKobo": 79900,
     "keywords": [
       "tshirts",
       "apparel",
@@ -53,7 +53,7 @@
       "stars": 5,
       "count": 2197
     },
-    "priceCents": 1899,
+    "priceKobo": 189900,
     "keywords": [
       "toaster",
       "kitchen",
@@ -68,7 +68,7 @@
       "stars": 4,
       "count": 37
     },
-    "priceCents": 2067,
+    "priceKobo": 206700,
     "keywords": [
       "plates",
       "kitchen",
@@ -83,7 +83,7 @@
       "stars": 4.5,
       "count": 175
     },
-    "priceCents": 3499,
+    "priceKobo": 349900,
     "keywords": [
       "kitchen",
       "cookware"
@@ -97,7 +97,7 @@
       "stars": 4.5,
       "count": 317
     },
-    "priceCents": 2400,
+    "priceKobo": 240000,
     "keywords": [
       "hoodies",
       "sweaters",
@@ -112,7 +112,7 @@
       "stars": 4.5,
       "count": 144
     },
-    "priceCents": 3599,
+    "priceKobo": 359900,
     "keywords": [
       "bathroom",
       "washroom",
@@ -129,7 +129,7 @@
       "stars": 4.5,
       "count": 305
     },
-    "priceCents": 2899,
+    "priceKobo": 289900,
     "keywords": [
       "bathroom",
       "cleaning"
@@ -143,7 +143,7 @@
       "stars": 4,
       "count": 89
     },
-    "priceCents": 3390,
+    "priceKobo": 339000,
     "keywords": [
       "shoes",
       "running shoes",
@@ -158,7 +158,7 @@
       "stars": 4.5,
       "count": 235
     },
-    "priceCents": 2070,
+    "priceKobo": 207000,
     "keywords": [
       "robe",
       "swimsuit",
@@ -177,7 +177,7 @@
       "stars": 4.5,
       "count": 30
     },
-    "priceCents": 1560,
+    "priceKobo": 156000,
     "keywords": [
       "accessories",
       "shades"
@@ -191,7 +191,7 @@
       "stars": 4.5,
       "count": 562
     },
-    "priceCents": 2499,
+    "priceKobo": 249900,
     "keywords": [
       "footwear",
       "sandals",
@@ -208,7 +208,7 @@
       "stars": 4.5,
       "count": 232
     },
-    "priceCents": 4599,
+    "priceKobo": 459900,
     "keywords": [
       "bedroom",
       "curtains",
@@ -223,7 +223,7 @@
       "stars": 4,
       "count": 160
     },
-    "priceCents": 1699,
+    "priceKobo": 169900,
     "keywords": [
       "shorts",
       "apparel",
@@ -238,7 +238,7 @@
       "stars": 5,
       "count": 846
     },
-    "priceCents": 3074,
+    "priceKobo": 307400,
     "keywords": [
       "water boiler",
       "appliances",
@@ -253,7 +253,7 @@
       "stars": 4,
       "count": 99
     },
-    "priceCents": 2374,
+    "priceKobo": 237400,
     "keywords": [
       "kleenex",
       "tissues",
@@ -270,7 +270,7 @@
       "stars": 4,
       "count": 215
     },
-    "priceCents": 2200,
+    "priceKobo": 220000,
     "keywords": [
       "hats",
       "straw hats",
@@ -286,7 +286,7 @@
       "stars": 4.5,
       "count": 52
     },
-    "priceCents": 1799,
+    "priceKobo": 179900,
     "keywords": [
       "jewelry",
       "accessories",
@@ -301,7 +301,7 @@
       "stars": 4.5,
       "count": 2465
     },
-    "priceCents": 1374,
+    "priceKobo": 137400,
     "keywords": [
       "hooded",
       "hoodies",
@@ -320,7 +320,7 @@
       "stars": 4.5,
       "count": 119
     },
-    "priceCents": 1250,
+    "priceKobo": 125000,
     "keywords": [
       "bathmat",
       "bathroom",
@@ -335,7 +335,7 @@
       "stars": 4,
       "count": 326
     },
-    "priceCents": 2640,
+    "priceKobo": 264000,
     "keywords": [
       "shoes",
       "flats",
@@ -351,7 +351,7 @@
       "stars": 4.5,
       "count": 2556
     },
-    "priceCents": 1599,
+    "priceKobo": 159900,
     "keywords": [
       "tshirts",
       "shirts",
@@ -369,7 +369,7 @@
       "stars": 4.5,
       "count": 2286
     },
-    "priceCents": 8300,
+    "priceKobo": 830000,
     "keywords": [
       "garbage",
       "bins",
@@ -385,7 +385,7 @@
       "stars": 4,
       "count": 456
     },
-    "priceCents": 2399,
+    "priceKobo": 239900,
     "keywords": [
       "bedroom",
       "bed sheets",
@@ -402,7 +402,7 @@
       "stars": 5,
       "count": 83
     },
-    "priceCents": 1250,
+    "priceKobo": 125000,
     "keywords": [
       "hats",
       "winter hats",
@@ -420,7 +420,7 @@
       "stars": 4.5,
       "count": 9017
     },
-    "priceCents": 2290,
+    "priceKobo": 229000,
     "keywords": [
       "pants",
       "apparel",
@@ -435,7 +435,7 @@
       "stars": 4,
       "count": 229
     },
-    "priceCents": 3890,
+    "priceKobo": 389000,
     "keywords": [
       "shoes",
       "running shoes",
@@ -451,7 +451,7 @@
       "stars": 3.5,
       "count": 42
     },
-    "priceCents": 1690,
+    "priceKobo": 169000,
     "keywords": [
       "sunglasses",
       "glasses",
@@ -467,7 +467,7 @@
       "stars": 4.5,
       "count": 511
     },
-    "priceCents": 6797,
+    "priceKobo": 679700,
     "keywords": [
       "cooking set",
       "kitchen"
@@ -481,7 +481,7 @@
       "stars": 4.5,
       "count": 130
     },
-    "priceCents": 1649,
+    "priceKobo": 164900,
     "keywords": [
       "bathroom",
       "washroom",
@@ -497,7 +497,7 @@
       "stars": 4.5,
       "count": 248
     },
-    "priceCents": 2400,
+    "priceKobo": 240000,
     "keywords": [
       "pants",
       "sweatpants",
@@ -514,7 +514,7 @@
       "stars": 4.5,
       "count": 117
     },
-    "priceCents": 2400,
+    "priceKobo": 240000,
     "keywords": [
       "accessories",
       "womens"
@@ -528,7 +528,7 @@
       "stars": 4,
       "count": 126
     },
-    "priceCents": 2899,
+    "priceKobo": 289900,
     "keywords": [
       "boxes",
       "food containers",
@@ -543,7 +543,7 @@
       "stars": 4.5,
       "count": 1211
     },
-    "priceCents": 2250,
+    "priceKobo": 225000,
     "keywords": [
       "coffeemakers",
       "kitchen",
@@ -558,7 +558,7 @@
       "stars": 4.5,
       "count": 363
     },
-    "priceCents": 3099,
+    "priceKobo": 309900,
     "keywords": [
       "bedroom",
       "home"
@@ -572,7 +572,7 @@
       "stars": 4.5,
       "count": 93
     },
-    "priceCents": 2110,
+    "priceKobo": 211000,
     "keywords": [
       "bathroom",
       "home",
@@ -587,7 +587,7 @@
       "stars": 4,
       "count": 89
     },
-    "priceCents": 3390,
+    "priceKobo": 339000,
     "keywords": [
       "shoes",
       "running shoes",
@@ -603,7 +603,7 @@
       "stars": 4,
       "count": 3
     },
-    "priceCents": 10747,
+    "priceKobo": 1074700,
     "keywords": [
       "food blenders",
       "kitchen",
@@ -618,7 +618,7 @@
       "stars": 5,
       "count": 679
     },
-    "priceCents": 3899,
+    "priceKobo": 389900,
     "keywords": [
       "mixing bowls",
       "baking",
@@ -634,7 +634,7 @@
       "stars": 4.5,
       "count": 1045
     },
-    "priceCents": 5799,
+    "priceKobo": 579900,
     "keywords": [
       "kitchen",
       "kitchen towels",
@@ -649,7 +649,7 @@
       "stars": 4.5,
       "count": 3157
     },
-    "priceCents": 2400,
+    "priceKobo": 240000,
     "keywords": [
       "sweaters",
       "hoodies",
