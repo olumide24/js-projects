@@ -31,12 +31,12 @@ To get started with any of the projects, follow these simple installation steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/olumide24/js-projects
    ```
 
 2. Navigate to the respective project folder you wish to explore.
    ```
-   cd to-do-list
+   cd javascript-amazon-project-main
    ```
 
 3. Install any dependencies required for the project using npm or yarn.
@@ -51,7 +51,7 @@ Each project contains a detailed README with instructions on how to use and inte
 I appreciate any contributions or feedback! If you'd like to contribute to any of the projects or have suggestions for improvements, feel free to submit a pull request or open an issue. Let's learn and grow together!
 
 ## License
-This project is licensed under the [MIT License](link_to_license_file). You are free to use, modify, and distribute the code in accordance with the terms of the license.
+This project is licensed under the [MIT License]. You are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 ---
 
